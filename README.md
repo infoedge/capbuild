@@ -1,7 +1,7 @@
-<p align="center">
+
     
-    <h1 align="center">Capacity Building</h1>
-    <br>
-</p>
+    <h1>Capacity Building</h1>
+    
+
 
 Capaciy building is a project to support agribusiness training, lending and production
